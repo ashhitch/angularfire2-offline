@@ -1,4 +1,4 @@
-import { FirebaseListFactoryOpts } from 'angularfire2/interfaces';
+import { FirebaseListFactoryOpts } from 'angularfire2/database/interfaces';
 import { Subscription } from 'rxjs/Subscription';
 import { ReplaySubject } from 'rxjs/ReplaySubject';
 

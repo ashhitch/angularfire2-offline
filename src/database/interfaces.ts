@@ -1,5 +1,5 @@
 import { ReplaySubject, Observable } from 'rxjs';
-import { FirebaseListFactoryOpts } from 'angularfire2/interfaces';
+import { FirebaseListFactoryOpts } from 'angularfire2/database/interfaces';
 
 /**
  * Each cacheItem is related to a Firebase reference.

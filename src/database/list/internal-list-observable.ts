@@ -1,4 +1,4 @@
-import { FirebaseListFactoryOpts } from 'angularfire2/interfaces';
+import { FirebaseListFactoryOpts } from 'angularfire2/database/interfaces';
 import * as stringify from 'json-stringify-safe';
 import { ReplaySubject } from 'rxjs';
 

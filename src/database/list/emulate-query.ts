@@ -1,4 +1,4 @@
-import { FirebaseListFactoryOpts } from 'angularfire2/interfaces';
+import { FirebaseListFactoryOpts } from 'angularfire2/database/interfaces';
 import { Observable } from 'rxjs/Observable';
 
 export class EmulateQuery {
